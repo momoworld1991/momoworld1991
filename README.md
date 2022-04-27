@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @momoworld1991
+- 👀 I’m interested in trading
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on crypto projects
